@@ -50,6 +50,7 @@ electronics-notes/
 └─ transistor/
    ├─ n-p-and-junctions.md
    ├─ practical-transistor-usage.md
+   ├─ transistor-study-guide.md
    └─ what-is-transistor.md
 ```
 
@@ -62,6 +63,7 @@ electronics-notes/
 
 ### 트랜지스터
 
+* [트랜지스터 학습 가이드](transistor/transistor-study-guide.md)
 * [n형, p형, PN 접합, NPN과 PNP](transistor/n-p-and-junctions.md)
 * [트랜지스터란 무엇인가](transistor/what-is-transistor.md)
 * [트랜지스터 실무 사용 정리](transistor/practical-transistor-usage.md)
