@@ -52,9 +52,9 @@ embedded-electronics-notes/
 │  ├─ diode.md
 │  └─ inductor.md
 ├─ transistor/
-│  ├─ bjt-basic.md
-│  ├─ mosfet-basic.md
-│  └─ switching-circuit.md
+│  ├─ n-p-and-junctions.md
+│  ├─ what-is-transistor.md
+│  └─ practical-transistor-usage.md
 ├─ power/
 │  ├─ ldo.md
 │  ├─ buck-converter.md
