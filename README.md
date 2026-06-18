@@ -42,47 +42,29 @@
 ## 저장소 구조
 
 ```text
-embedded-electronics-notes/
+electronics-notes/
 ├─ README.md
 ├─ basics/
-│  ├─ voltage-current-resistance.md
-│  ├─ power.md
-│  ├─ resistor.md
-│  ├─ capacitor.md
 │  ├─ diode.md
-│  └─ inductor.md
-├─ transistor/
-│  ├─ n-p-and-junctions.md
-│  ├─ what-is-transistor.md
-│  └─ practical-transistor-usage.md
-├─ power/
-│  ├─ ldo.md
-│  ├─ buck-converter.md
-│  ├─ decoupling-capacitor.md
-│  └─ protection-circuit.md
-├─ embedded-interface/
-│  ├─ gpio.md
-│  ├─ adc.md
-│  ├─ pwm.md
-│  ├─ uart.md
-│  ├─ i2c.md
-│  ├─ spi.md
-│  └─ can.md
-├─ debugging/
-│  ├─ multimeter.md
-│  ├─ oscilloscope.md
-│  ├─ common-hardware-issues.md
-│  └─ checklist.md
-├─ datasheet/
-│  ├─ how-to-read-datasheet.md
-│  ├─ absolute-maximum-ratings.md
-│  ├─ recommended-operating-conditions.md
-│  └─ electrical-characteristics.md
-└─ review/
-   ├─ glossary.md
-   ├─ questions.md
-   └─ mistakes.md
+│  └─ voltage-drop.md
+└─ transistor/
+   ├─ n-p-and-junctions.md
+   ├─ practical-transistor-usage.md
+   └─ what-is-transistor.md
 ```
+
+## 문서 목록
+
+### 전자 기초
+
+* [다이오드는 무엇인가?](basics/diode.md)
+* [전압 강하란 무엇인가](basics/voltage-drop.md)
+
+### 트랜지스터
+
+* [n형, p형, PN 접합, NPN과 PNP](transistor/n-p-and-junctions.md)
+* [트랜지스터란 무엇인가](transistor/what-is-transistor.md)
+* [트랜지스터 실무 사용 정리](transistor/practical-transistor-usage.md)
 
 ---
 
