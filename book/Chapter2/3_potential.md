@@ -9,5 +9,5 @@
 ![alt text](image.png)
 
 
-### todo
+### todo 35p
 ## 전압 매커니즘
