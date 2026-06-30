@@ -2,7 +2,7 @@
 
 1. [전자공학 이론](./1_theoryOfElectricalEngineering.md)
 2. [전류](./2_electricCurrent.md)
-3. 전압
+3. [전압](./3_potential.md)
 4. 전도 현상의 미시적 고찰
 5. 저항, 저항률, 전도율
 6. 부도체, 도체, 반도체
