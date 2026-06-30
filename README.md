@@ -32,6 +32,7 @@
 * 디커플링 커패시터와 전원 노이즈
 * GPIO, ADC, PWM
 * UART, I2C, SPI, CAN
+* Arduino, Raspberry Pi 등 임베디드 개발 보드와 싱글 보드 컴퓨터
 * 오실로스코프, 멀티미터 사용법
 * 데이터시트 읽는 법
 * 임베디드 하드웨어 디버깅 사례
@@ -46,7 +47,10 @@ electronics-notes/
 ├─ README.md
 ├─ basics/
 │  ├─ diode.md
+│  ├─ multimeter.md
 │  └─ voltage-drop.md
+├─ embedded/
+│  └─ boards-and-computers.md
 └─ transistor/
    ├─ n-p-and-junctions.md
    ├─ practical-transistor-usage.md
@@ -59,7 +63,12 @@ electronics-notes/
 ### 전자 기초
 
 * [다이오드는 무엇인가?](basics/diode.md)
+* [멀티미터 사용법](basics/multimeter.md)
 * [전압 강하란 무엇인가](basics/voltage-drop.md)
+
+### 임베디드
+
+* [임베디드에서 자주 쓰는 보드와 컴퓨터](embedded/boards-and-computers.md)
 
 ### 트랜지스터
 
