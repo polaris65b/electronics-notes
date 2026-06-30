@@ -32,7 +32,7 @@
 │  ├─ Raspberry Pi
 │  ├─ BeagleBone
 │  ├─ Orange Pi / Banana Pi
-│  ├─ Odroid
+│  ├─ Odroidx
 │  └─ NVIDIA Jetson
 ├─ 산업용 임베디드 PC
 │  ├─ Fanless PC
